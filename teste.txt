@@ -1,1 +1,19 @@
-Aula de Qualidade de Software 13/03/2025
+Aula de Qualidade de Software 13/03/2025git status
+
+
+
+2 commit
+Explicando a ordem dos commit
+
+cd pasta do arquivo 
+git init
+Adicionou todos os arquivos no diretório ao controle de versão (no seu caso, o arquivo teste.txt):
+
+git add .
+Fez o commit com a mensagem "Primeiro commit":
+
+git commit -m "Primeiro commit"
+Fez o push da branch main para o repositório remoto no GitHub (para o repositório qualidadeSoft):
+
+git push -u origin main
+Com esses comandos, você inicializou o repositório, fez o primeiro commit e enviou os arquivos para o repositório remoto no GitHub.
